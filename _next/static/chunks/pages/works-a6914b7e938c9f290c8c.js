@@ -1,0 +1,1 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[22],{T2IG:function(_,n,w){(window.__NEXT_P=window.__NEXT_P||[]).push(["/works",function(){return w("z6Qo")}])}},[["T2IG",0,2,10,1,3,4,5]]]);
